@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- ❗ ВАЖЛИВО: Замініть це посилання на реальний скріншот або, ще краще, GIF-анімацію вашого scrollytelling! -->
-  <img src="https://i.imgur.com/zYxqX4o.gif" alt="HunForge Scrollytelling Demo" width="800"/>
+  <img src="images/Снимок экрана 2025-10-14 233550.png" alt="HunForge Scrollytelling Demo" width="800"/>
 </div>
 
 <p align="center">
